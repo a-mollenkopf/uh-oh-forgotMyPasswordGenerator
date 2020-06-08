@@ -21,7 +21,7 @@ Type git push to push to github and open it from there!
 
 # Features
 
-Working on this page tested my knowledge of Javascript and how to make things user responsive. I learned how to generate random numbers, letters, numbers, and symbols to make a unique password for the user. You have to choose at least one option when creating one and keep the length between 8 characters and 128 characters. Your new password will show up in the text box in the middel of the page.
+Working on this page tested my knowledge of Javascript and how to make things user responsive. I learned how to generate random numbers, letters, numbers, and symbols to make a unique password for the user. You have to choose at least one option when creating one and keep the length between 8 characters and 128 characters. Your new password will show up in the text box in the middle of the page.
 
 
 
